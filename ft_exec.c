@@ -19,4 +19,4 @@ int	main(int argc, char **argv)
 	return (0);
 }
 
-$ ./exec /bin/ls -lah
+//$ ./exec /bin/ls -lah
